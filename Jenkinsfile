@@ -36,7 +36,7 @@ pipeline {
 
     post {
         always {
-            echo 'run good'
+            echo 'run good jennot x'
         }
     }
 }
